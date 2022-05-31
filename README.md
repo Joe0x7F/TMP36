@@ -23,4 +23,5 @@ Recommendation:
 Buy the MCP9701A-E/TO instead and never look back. The MCP9701A-E/TO behaves exactly the way you would expect. Solid as a rock. 
 
 I will be putting up data from my test results of the MCP9701A-E/TO shortly, here: https://github.com/Joe0x7F/MCP9701A
+
 The info will include a characteristic equation that you can use to design your circuits.
