@@ -10,7 +10,7 @@ This project was created to help enigneers, technicians, and hobbyist quicky get
 
 # Conclusions after testing this part
 
-I have tested the TMP36GT9Z, TMP36GZ, TMP36G, and the TMP37FT9Z. 
+I have tested several TMP36GT9Z, TMP36GZ, TMP36G, and TMP37FT9Z devices. 
 
 Conclusion: 
 
@@ -22,6 +22,6 @@ Recommendation:
 
 Buy the MCP9701A-E/TO instead and never look back. The MCP9701A-E/TO behaves exactly the way you would expect. Solid as a rock. 
 
-I will be putting up data from my test results of the MCP9701A-E/TO shortly, here: https://github.com/Joe0x7F/MCP9701A
+See information on the MCP9701A-E/TO here: https://github.com/Joe0x7F/MCP9701A
 
-The info will include a characteristic equation that you can use to design your circuits.
+The information provided includes a characteristic equation that makes it easty to design your circuit around the MCP9701A.
