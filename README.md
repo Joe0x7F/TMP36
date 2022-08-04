@@ -20,7 +20,7 @@ Throw all of these away, and never buy a TMP35/TMP36/TMP37 again. This is the wo
 
 Recommendation: 
 
-Buy the MCP9701A-E/TO instead and never look back. The MCP9701A-E/TO behaves exactly the way you would expect. Solid as a rock. 
+Buy the MCP9701A-E/TO instead and never look back. The MCP9701A-E/TO behaves exactly the way you would expect.
 
 See information on the MCP9701A-E/TO here: https://github.com/Joe0x7F/MCP9701A
 
