@@ -24,9 +24,8 @@ Buy the MCP9701A-E/TO instead and never look back. The MCP9701A-E/TO behaves exa
 
 See information on the MCP9701A-E/TO here: https://github.com/Joe0x7F/MCP9701A
 
-The information provided includes a characteristic equation that makes it easty to design your circuit around the MCP9701A.
+The information provided includes characteristic equations that make it relatively easy to design your circuit around the MCP9701A.
 
 # Another good analog temperature sensor:
 
 Also recommended: https://github.com/Joe0x7F/LMT87
-
