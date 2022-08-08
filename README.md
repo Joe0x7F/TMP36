@@ -8,6 +8,13 @@ This project was created to help enigneers, technicians, and hobbyist quicky get
 ![Simple Circuit](<Simple_Schematic.png>)
 
 
+
+# Typical MCP9701A versus TMP36 noise
+
+![Noise comparison](<77.9degrees_4.301V_5thdevice_2022-08-08_11-29-03.png>)
+
+
+
 # Conclusions after testing this part
 
 I have tested several TMP36GT9Z, TMP36GZ, TMP36G, and TMP37FT9Z devices. 
