@@ -17,7 +17,7 @@ This project was created to help enigneers, technicians, and hobbyist quicky get
 
 # Conclusions after testing this part
 
-I have tested several TMP36GT9Z, TMP36GZ, TMP36G, and TMP37FT9Z devices. 
+I have tested several TMP36GT9Z, TMP36GZ, TMP36G, and TMP37FT9Z devices from different vendors. 
 
 Conclusion: 
 
